@@ -15,7 +15,7 @@ b. Outcomes based on goals
 ### A. Analysis of Outcomes Based on Launch Date
 We have analyzed the tends for "plays" based on the launch date. 
 
-![Outcomes based on launch date](https://github.com/aramosg/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes based on launch date](/resources/Theater_Outcomes_vs_Launch.png)
 
 As we can see in the graph above, the "failed" projects trend is pretty much steady. This statement applies for all years and year 2016, the year "Fever" fundraiser was launched. The trend for "successful" projets is different along the year. 
 
@@ -24,7 +24,7 @@ There is a good chance a fundraiser success during the first five months of the 
 ### Analysis of Outcomes Based on Goals
 For the analysis based on goals, we can observe the following
 
-<<Insert graph here>>
+![Outcomes based on goals](/resources/Outcomes_vs_Goals.png)
 
 There is a correlation between the goal and the project's probability of success. We can see in te graph that the larger the goal, the bigger the chances of failure. This trend is inverted when it comes to projects with a goal between $35,000 and $44,999. It is unclear for us why this happens, but for the rest of our ranges, our statement holds true.
 
