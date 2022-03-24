@@ -15,7 +15,7 @@ b. Outcomes based on goals
 ### A. Analysis of Outcomes Based on Launch Date
 We have analyzed the tends for "plays" based on the launch date. 
 
-<<Insert graph here>>
+![Outcomes based on launch date](https://github.com/aramosg/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 As we can see in the graph above, the "failed" projects trend is pretty much steady. This statement applies for all years and year 2016, the year "Fever" fundraiser was launched. The trend for "successful" projets is different along the year. 
 
